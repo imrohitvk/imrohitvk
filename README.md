@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&width=700&lines=Computing+Education+Researcher;Building+Spandan+%C2%B7+live+classroom+polls;Teaching+Assistant+%C2%B7+DBMS+%26+Computer+Networks;MERN+%C2%B7+Python+%C2%B7+Machine+Learning" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&width=700&lines=Computing+Education+Researcher;Building+Spandan+%C2%B7+live+classroom+polls;Teaching+Assistant+%C2%B7+IIT+Ropar+%26+NPTEL;MERN+%C2%B7+Python+%C2%B7+Machine+Learning" alt="Typing" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg" /><img src="assets/h-about.svg" alt="About" width="100%" /></picture></p>
 
 <p align="center">
-  <img src="assets/about.svg" alt="Ph.D. Scholar, CSE, IIT Ropar · Teaching Assistant for Database Management Systems and Computer Networks · Previously Associate Software Engineer at Accenture (Oct 2023 – July 2024)" width="100%" />
+  <img src="assets/about.svg" alt="Ph.D. Scholar, CSE, IIT Ropar · Teaching Assistant at IIT Ropar (DBMS, Software Engineering, Computer Networks) since Jul 2024 and NPTEL (Deep Learning) since Jan 2026 · Previously Associate Software Engineer at Accenture (Oct 2023 – July 2024)" width="100%" />
 </p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg" /><img src="assets/h-projects.svg" alt="Projects" width="100%" /></picture></p>
