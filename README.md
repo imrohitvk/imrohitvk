@@ -17,13 +17,13 @@
   <img src="assets/focus.svg" alt="Live lecture → Real-time polls → Learning insights for teachers" width="100%" />
 </p>
 
-<p align="center"><img src="assets/h-about.svg" alt="About" width="100%" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg" /><img src="assets/h-about.svg" alt="About" width="100%" /></picture></p>
 
 <p align="center">
   <img src="assets/about.svg" alt="Ph.D. Scholar, CSE, IIT Ropar · Teaching Assistant for DBMS, Software Engineering Practices and Computer Networks · Previously Associate Software Engineer at Accenture; B.Tech CSE, JUIT" width="100%" />
 </p>
 
-<p align="center"><img src="assets/h-projects.svg" alt="Projects" width="100%" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg" /><img src="assets/h-projects.svg" alt="Projects" width="100%" /></picture></p>
 
 <p align="center">
   <a href="https://github.com/vicharanashala/spandan"><img src="assets/card-spandan.svg" alt="Spandan" width="49%" /></a>
@@ -34,7 +34,7 @@
   <a href="https://github.com/vicharanashala/vicharanashala-ai"><img src="assets/card-vicharanashala.svg" alt="Vicharanashala lab website" width="49%" /></a>
 </p>
 
-<p align="center"><img src="assets/h-research.svg" alt="Research" width="100%" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-research-dark.svg" /><img src="assets/h-research.svg" alt="Research" width="100%" /></picture></p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2609.38907"><img src="assets/paper-1.svg" alt="Characterizing Questioning Patterns and Student Engagement Through Contextual Analysis of Real-Time Classroom Interactions (arXiv:2609.38907)" width="100%" /></a>
@@ -46,13 +46,13 @@
   <a href="https://arxiv.org/abs/2609.38969"><img src="assets/paper-3.svg" alt="Insights on Student Learning from Live Classroom Polls: More Than Right or Wrong (arXiv:2609.38969)" width="100%" /></a>
 </p>
 
-<p align="center"><img src="assets/h-stack.svg" alt="Stack" width="100%" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg" /><img src="assets/h-stack.svg" alt="Stack" width="100%" /></picture></p>
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,python,java,c,cpp,mysql,html,css,git,latex,vscode&perline=8&theme=light" alt="Stack" /></a>
 </p>
 
-<p align="center"><img src="assets/h-activity.svg" alt="Activity" width="100%" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-activity-dark.svg" /><img src="assets/h-activity.svg" alt="Activity" width="100%" /></picture></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=imrohitvk&hide_border=true&background=FAF9F7&ring=2A9D8F&fire=E76F51&currStreakNum=1F2933&sideNums=1F2933&currStreakLabel=1E5A7A&sideLabels=5F6B7A&dates=8C929C" alt="GitHub streak" />
