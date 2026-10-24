@@ -20,7 +20,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg" /><img src="assets/h-about.svg" alt="About" width="100%" /></picture></p>
 
 <p align="center">
-  <img src="assets/about.svg" alt="Ph.D. Scholar, CSE, IIT Ropar · Teaching Assistant for Database Management Systems and Computer Networks · Previously Associate Software Engineer at Accenture (Oct 2023 – Jul 2024)" width="100%" />
+  <img src="assets/about.svg" alt="Ph.D. Scholar, CSE, IIT Ropar · Teaching Assistant for Database Management Systems and Computer Networks · Previously Associate Software Engineer at Accenture (Oct 2023 – July 2024)" width="100%" />
 </p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg" /><img src="assets/h-projects.svg" alt="Projects" width="100%" /></picture></p>
