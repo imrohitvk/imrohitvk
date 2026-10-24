@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<style>
+  .card { stroke: #E4E7EB; stroke-width: 1.5; animation: lit 6s ease-in-out infinite; }
+  .c1 { --c: #2A9D8F; animation-delay: 0s; }  .c2 { --c: #E76F51; animation-delay: 2s; }  .c3 { --c: #1E5A7A; animation-delay: 4s; }
+  @keyframes lit { 0%, 36%, 100% { stroke: #E4E7EB; stroke-width: 1.5; }  6%, 28% { stroke: var(--c); stroke-width: 3; } }
+  .ripple { fill: none; stroke: #2A9D8F; stroke-width: 3; transform-box: fill-box; transform-origin: center;
+            animation: ripple 1.8s ease-out infinite; }
+  .ripple.r2 { animation-delay: 0.9s; }
+  @keyframes ripple { 0% { transform: scale(1); opacity: 0.6; } 100% { transform: scale(1.6); opacity: 0; } }
+  .bar { transform-box: fill-box; transform-origin: 50% 100%; animation: bar 1.6s ease-in-out infinite alternate; }
+  .b2 { animation-delay: 0.4s; } .b3 { animation-delay: 0.8s; }
+  @keyframes bar { 0% { transform: scaleY(0.35); } 100% { transform: scaleY(1); } }
+  .trend { stroke-dasharray: 60; stroke-dashoffset: 60; animation: draw 3s ease-in-out infinite; }
+  @keyframes draw { 0% { stroke-dashoffset: 60; } 45%, 85% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: -60; } }
+  .tip { transform-box: fill-box; transform-origin: center; animation: tip 3s ease-in-out infinite; }
+  @keyframes tip { 0%, 35% { transform: scale(0); } 45%, 85% { transform: scale(1); } 100% { transform: scale(0); } }
+  .flow { stroke-dasharray: 4 7; animation: flow 0.8s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -11; } }
+</style>
+<rect width="1200" height="190" rx="20" fill="#FAF9F7"/><rect class="card c1" x="40" y="30" width="340" height="130" rx="18" fill="#ffffff"/><g transform="translate(110 95)"><circle class="ripple" r="38"/><circle class="ripple r2" r="38"/><circle r="38" fill="#2A9D8F"/><rect x="-9" y="-22" width="18" height="30" rx="9" fill="none" stroke="#fff" stroke-width="3"/><path d="M-16 0a16 16 0 0 0 32 0M0 16v10M-9 26h18" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g><text x="168" y="88" fill="#1F2933" font-size="24" font-weight="700">Live lecture</text><text x="168" y="118" fill="#5F6B7A" font-size="18">The teacher speaks</text><path class="flow" d="M386 95 h28" fill="none" stroke="#5F6B7A" stroke-width="3" stroke-linecap="round"/><path d="M406 86 l9 9 -9 9" fill="none" stroke="#5F6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect class="card c2" x="430" y="30" width="340" height="130" rx="18" fill="#ffffff"/><g transform="translate(500 95)"><circle r="38" fill="#E76F51"/><rect class="bar b1" x="-20" y="-14" width="9" height="36" rx="2" fill="#fff"/><rect class="bar b2" x="-5" y="-14" width="9" height="36" rx="2" fill="#fff"/><rect class="bar b3" x="10" y="-14" width="9" height="36" rx="2" fill="#fff"/></g><text x="558" y="88" fill="#1F2933" font-size="24" font-weight="700">Real-time polls</text><text x="558" y="118" fill="#5F6B7A" font-size="18">Students answer in class</text><path class="flow" d="M776 95 h28" fill="none" stroke="#5F6B7A" stroke-width="3" stroke-linecap="round"/><path d="M796 86 l9 9 -9 9" fill="none" stroke="#5F6B7A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect class="card c3" x="820" y="30" width="340" height="130" rx="18" fill="#ffffff"/><g transform="translate(890 95)"><circle r="38" fill="#1E5A7A"/><path class="trend" d="M-20 18 L-6 2 L4 10 L20 -14" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><circle class="tip" cx="20" cy="-14" r="4.5" fill="#fff"/></g><text x="948" y="88" fill="#1F2933" font-size="24" font-weight="700">Learning insights</text><text x="948" y="118" fill="#5F6B7A" font-size="18">Teachers act in time</text></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><style>
+  .live { animation: live 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes live { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.35; transform: scale(0.7); } }
+</style>
+<defs><linearGradient id="band" x1="0" x2="1"><stop offset="0" stop-color="#1f4ba5" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#1f4ba5" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="278" rx="22" fill="#ffffff" stroke="#E4E7EB" stroke-width="2"/>
+<path d="M23 1 H577 a22 22 0 0 1 22 22 V110 H1 V23 a22 22 0 0 1 22 -22 z" fill="url(#band)"/>
+<rect x="36" y="30" width="60" height="60" rx="16" fill="#1f4ba5"/>
+<g transform="translate(51 45) scale(1.250)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3M9 21h6"/></g>
+<text x="112" y="62" fill="#1F2933" font-size="30" font-weight="800">Spandan</text>
+<text x="112" y="88" fill="#1f4ba5" font-size="14" font-weight="700" letter-spacing="1.2">IIT ROPAR · JUN 2025 – PRESENT</text>
+<rect x="463" y="30" width="101" height="30" rx="15" fill="#E8F6EE"/><circle class="live" cx="481" cy="45" r="5" fill="#1A9E55"/><text x="553" y="50" text-anchor="end" fill="#137A41" font-size="13" font-weight="700" letter-spacing="1.2">ACTIVE</text>
+<text x="36" y="150" fill="#5F6B7A" font-size="19">Live lecture speech turned into real-time</text><text x="36" y="178" fill="#5F6B7A" font-size="19">class polls, with engagement analytics.</text>
+<rect x="36" y="222" width="62" height="30" rx="15" fill="#1f4ba5" opacity="0.12"/><text x="67" y="242" text-anchor="middle" fill="#1f4ba5" font-size="15" font-weight="600">React</text><rect x="108.0" y="222" width="108" height="30" rx="15" fill="#1f4ba5" opacity="0.12"/><text x="162" y="242" text-anchor="middle" fill="#1f4ba5" font-size="15" font-weight="600">TypeScript</text><rect x="226.0" y="222" width="80" height="30" rx="15" fill="#1f4ba5" opacity="0.12"/><text x="266" y="242" text-anchor="middle" fill="#1f4ba5" font-size="15" font-weight="600">Node.js</text><rect x="316.4" y="222" width="80" height="30" rx="15" fill="#1f4ba5" opacity="0.12"/><text x="357" y="242" text-anchor="middle" fill="#1f4ba5" font-size="15" font-weight="600">MongoDB</text><rect x="406.79999999999995" y="222" width="80" height="30" rx="15" fill="#1f4ba5" opacity="0.12"/><text x="447" y="242" text-anchor="middle" fill="#1f4ba5" font-size="15" font-weight="600">Whisper</text>
+<text x="566" y="242" text-anchor="end" fill="#1f4ba5" font-size="15" font-weight="700">View ↗</text>
+</svg>

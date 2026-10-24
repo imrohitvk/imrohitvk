@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><style>
+  .live { animation: live 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes live { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.35; transform: scale(0.7); } }
+</style>
+<defs><linearGradient id="band" x1="0" x2="1"><stop offset="0" stop-color="#42a6ac" stop-opacity="0.33"/>
+<stop offset="1" stop-color="#42a6ac" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="278" rx="22" fill="#ffffff" stroke="#E4E7EB" stroke-width="2"/>
+<path d="M23 1 H577 a22 22 0 0 1 22 22 V110 H1 V23 a22 22 0 0 1 22 -22 z" fill="url(#band)"/>
+<rect x="36" y="30" width="60" height="60" rx="16" fill="#42a6ac"/>
+<g transform="translate(51 45) scale(1.250)" fill="none" stroke="#3D3000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></g>
+<text x="112" y="62" fill="#1F2933" font-size="30" font-weight="800">Vicharanashala</text>
+<text x="112" y="88" fill="#21767C" font-size="14" font-weight="700" letter-spacing="1.2">VLED LAB WEBSITE · IIT ROPAR</text>
+<rect x="426" y="30" width="138" height="30" rx="15" fill="#F0F2F5"/><text x="553" y="50" text-anchor="end" fill="#5F6B7A" font-size="13" font-weight="700" letter-spacing="1.2">CONTRIBUTOR</text>
+<text x="36" y="150" fill="#5F6B7A" font-size="19">The lab's public site: products, research,</text><text x="36" y="178" fill="#5F6B7A" font-size="19">events and team, at vicharanashala.ai.</text>
+<rect x="36" y="222" width="71" height="30" rx="15" fill="#42a6ac" opacity="0.25"/><text x="72" y="242" text-anchor="middle" fill="#21767C" font-size="15" font-weight="600">Jekyll</text><rect x="117.19999999999999" y="222" width="71" height="30" rx="15" fill="#42a6ac" opacity="0.25"/><text x="153" y="242" text-anchor="middle" fill="#21767C" font-size="15" font-weight="600">Liquid</text><rect x="198.39999999999998" y="222" width="53" height="30" rx="15" fill="#42a6ac" opacity="0.25"/><text x="225" y="242" text-anchor="middle" fill="#21767C" font-size="15" font-weight="600">SCSS</text><rect x="261.2" y="222" width="108" height="30" rx="15" fill="#42a6ac" opacity="0.25"/><text x="315" y="242" text-anchor="middle" fill="#21767C" font-size="15" font-weight="600">Leaflet.js</text>
+<text x="566" y="242" text-anchor="end" fill="#21767C" font-size="15" font-weight="700">View ↗</text>
+</svg>

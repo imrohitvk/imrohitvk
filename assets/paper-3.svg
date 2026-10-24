@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="1198" height="174" rx="20" fill="#ffffff" stroke="#E4E7EB" stroke-width="2"/>
+<rect x="1" y="1" width="10" height="174" rx="5" fill="#E76F51"/>
+<rect x="36" y="32" width="60" height="60" rx="16" fill="#E76F51" opacity="0.12"/>
+<text x="66" y="72" text-anchor="middle" fill="#E76F51" font-size="26" font-weight="800">P3</text>
+<text x="120" y="70" fill="#1F2933" font-size="24" font-weight="700">Insights on Student Learning from Live Classroom Polls:</text><text x="120" y="102" fill="#1F2933" font-size="24" font-weight="700">More Than Right or Wrong</text>
+<rect x="120" y="122" width="170" height="30" rx="15" fill="#E76F51" opacity="0.12"/>
+<text x="205" y="142" text-anchor="middle" fill="#E76F51" font-size="15" font-weight="700">arXiv:2609.38969</text>
+<text x="306" y="142" fill="#5F6B7A" font-size="16">R. Sharma et al. · IIT Ropar · 2026</text>
+<text x="1160" y="142" text-anchor="end" fill="#E76F51" font-size="16" font-weight="700">Read on arXiv ↗</text>
+</svg>

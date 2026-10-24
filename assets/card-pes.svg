@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><style>
+  .live { animation: live 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes live { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.35; transform: scale(0.7); } }
+</style>
+<defs><linearGradient id="band" x1="0" x2="1"><stop offset="0" stop-color="#4b3c70" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#4b3c70" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="278" rx="22" fill="#ffffff" stroke="#E4E7EB" stroke-width="2"/>
+<path d="M23 1 H577 a22 22 0 0 1 22 22 V110 H1 V23 a22 22 0 0 1 22 -22 z" fill="url(#band)"/>
+<rect x="36" y="30" width="60" height="60" rx="16" fill="#4b3c70"/>
+<g transform="translate(51 45) scale(1.250)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/><circle cx="16" cy="8" r="3"/><path d="M2 20c0-3 2.7-5 6-5s6 2 6 5M14 15.5c3 0 8 1 8 4.5"/></g>
+<text x="112" y="62" fill="#1F2933" font-size="30" font-weight="800">Peer Evaluation</text>
+<text x="112" y="88" fill="#4b3c70" font-size="14" font-weight="700" letter-spacing="1.2">IIT ROPAR · AUG 2024 – JUL 2025</text>
+<rect x="448" y="30" width="116" height="30" rx="15" fill="#F0F2F5"/><text x="553" y="50" text-anchor="end" fill="#5F6B7A" font-size="13" font-weight="700" letter-spacing="1.2">COMPLETED</text>
+<text x="36" y="150" fill="#5F6B7A" font-size="19">Anonymous peer grading with anomaly</text><text x="36" y="178" fill="#5F6B7A" font-size="19">detection and TA-to-teacher escalation.</text>
+<rect x="36" y="222" width="62" height="30" rx="15" fill="#4b3c70" opacity="0.12"/><text x="67" y="242" text-anchor="middle" fill="#4b3c70" font-size="15" font-weight="600">React</text><rect x="108.0" y="222" width="80" height="30" rx="15" fill="#4b3c70" opacity="0.12"/><text x="148" y="242" text-anchor="middle" fill="#4b3c70" font-size="15" font-weight="600">Node.js</text><rect x="198.39999999999998" y="222" width="80" height="30" rx="15" fill="#4b3c70" opacity="0.12"/><text x="239" y="242" text-anchor="middle" fill="#4b3c70" font-size="15" font-weight="600">Express</text><rect x="288.79999999999995" y="222" width="80" height="30" rx="15" fill="#4b3c70" opacity="0.12"/><text x="329" y="242" text-anchor="middle" fill="#4b3c70" font-size="15" font-weight="600">MongoDB</text><rect x="379.19999999999993" y="222" width="44" height="30" rx="15" fill="#4b3c70" opacity="0.12"/><text x="401" y="242" text-anchor="middle" fill="#4b3c70" font-size="15" font-weight="600">JWT</text>
+<text x="566" y="242" text-anchor="end" fill="#4b3c70" font-size="15" font-weight="700">View ↗</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><style>
+  .live { animation: live 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes live { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.35; transform: scale(0.7); } }
+</style>
+<defs><linearGradient id="band" x1="0" x2="1"><stop offset="0" stop-color="#F4D03F" stop-opacity="0.33"/>
+<stop offset="1" stop-color="#F4D03F" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="278" rx="22" fill="#ffffff" stroke="#E4E7EB" stroke-width="2"/>
+<path d="M23 1 H577 a22 22 0 0 1 22 22 V110 H1 V23 a22 22 0 0 1 22 -22 z" fill="url(#band)"/>
+<rect x="36" y="30" width="60" height="60" rx="16" fill="#F4D03F"/>
+<g transform="translate(51 45) scale(1.250)" fill="none" stroke="#3D3000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M10 9a2 2 0 1 1 3 1.7c-.6.4-1 .8-1 1.5M12 14.5v.1"/></g>
+<text x="112" y="62" fill="#1F2933" font-size="30" font-weight="800">Vi-SlideS</text>
+<text x="112" y="88" fill="#8A6D00" font-size="14" font-weight="700" letter-spacing="1.2">IIT ROPAR · DEC 2025 – PRESENT</text>
+<rect x="463" y="30" width="101" height="30" rx="15" fill="#E8F6EE"/><circle class="live" cx="481" cy="45" r="5" fill="#1A9E55"/><text x="553" y="50" text-anchor="end" fill="#137A41" font-size="13" font-weight="700" letter-spacing="1.2">ACTIVE</text>
+<text x="36" y="150" fill="#5F6B7A" font-size="19">Question-driven teaching: student questions</text><text x="36" y="178" fill="#5F6B7A" font-size="19">steer the class, with teacher insights.</text>
+<rect x="36" y="222" width="62" height="30" rx="15" fill="#F4D03F" opacity="0.25"/><text x="67" y="242" text-anchor="middle" fill="#8A6D00" font-size="15" font-weight="600">React</text><rect x="108.0" y="222" width="108" height="30" rx="15" fill="#F4D03F" opacity="0.25"/><text x="162" y="242" text-anchor="middle" fill="#8A6D00" font-size="15" font-weight="600">TypeScript</text><rect x="226.0" y="222" width="80" height="30" rx="15" fill="#F4D03F" opacity="0.25"/><text x="266" y="242" text-anchor="middle" fill="#8A6D00" font-size="15" font-weight="600">Node.js</text><rect x="316.4" y="222" width="108" height="30" rx="15" fill="#F4D03F" opacity="0.25"/><text x="370" y="242" text-anchor="middle" fill="#8A6D00" font-size="15" font-weight="600">WebSockets</text>
+<text x="566" y="242" text-anchor="end" fill="#8A6D00" font-size="15" font-weight="700">View ↗</text>
+</svg>
